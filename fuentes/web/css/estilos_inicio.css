@@ -1,0 +1,8 @@
+/**
+ * La cabecera de la p\u00E1gina inicio.php.
+ */
+.cabecera h1{
+    color: black;
+    text-align: center;
+    font-size: 30pt;
+}
